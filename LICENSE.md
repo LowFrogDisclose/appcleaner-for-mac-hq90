@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with updated AppCleaner for macOS Extension | malware-scanner + network-speed, the #1 extension. Includes malware-scanner and network-speed for a
 
 
 
